@@ -1,0 +1,8 @@
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\bin\Release\netcoreapp1.0\KervAlexaSkill.deps.json
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\bin\Release\netcoreapp1.0\KervAlexaSkill.dll
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\bin\Release\netcoreapp1.0\KervAlexaSkill.pdb
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Release\netcoreapp1.0\KervAlexaSkill.csproj.CoreCompileInputs.cache
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Release\netcoreapp1.0\KervAlexaSkill.AssemblyInfoInputs.cache
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Release\netcoreapp1.0\KervAlexaSkill.AssemblyInfo.cs
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Release\netcoreapp1.0\KervAlexaSkill.dll
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Release\netcoreapp1.0\KervAlexaSkill.pdb

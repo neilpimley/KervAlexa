@@ -1,0 +1,9 @@
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\bin\Debug\netcoreapp1.0\KervAlexaSkill.deps.json
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\bin\Debug\netcoreapp1.0\KervAlexaSkill.dll
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Debug\netcoreapp1.0\KervAlexaSkill.csprojResolveAssemblyReference.cache
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Debug\netcoreapp1.0\KervAlexaSkill.csproj.CoreCompileInputs.cache
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Debug\netcoreapp1.0\KervAlexaSkill.AssemblyInfoInputs.cache
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Debug\netcoreapp1.0\KervAlexaSkill.AssemblyInfo.cs
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\bin\Debug\netcoreapp1.0\KervAlexaSkill.pdb
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Debug\netcoreapp1.0\KervAlexaSkill.dll
+C:\Users\n.pimley\source\repos\KervAlexaSkill\KervAlexaSkill\obj\Debug\netcoreapp1.0\KervAlexaSkill.pdb
